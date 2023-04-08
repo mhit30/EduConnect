@@ -1,0 +1,36 @@
+{
+    "expo": {
+        "name": "EduConnect",
+        "slug": "EduConnect",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/eduConnectIcon.png",
+        "userInterfaceStyle": "light",
+        "splash": {
+            "image": "./assets/eduConnectSplash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#B49FCC"
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/eduConnectIcon.png",
+                "backgroundColor": "#B49FCC"
+            }
+        },
+        "web": {
+            "favicon": "./assets/eduConnectIcon.png"
+        },
+        "plugins": [
+            [
+                "expo-image-picker",
+                {
+                    "photosPermission": "EduConnect uses photos for user avatars and user posts."
+                }
+            ]
+        ]
+    }
+}
