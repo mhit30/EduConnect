@@ -6,10 +6,10 @@
 
 ### Mohammed Hit (Programmer) and Haylie Romero (UI Designer & Artist)
 
-## Formerly SchoolApp.
+## Alert: Changed Name. Formerly SchoolApp.
 
-- Everything works the same, just a different name.
-- SchoolApp repo. privated to protect environment variables.
+- Everything works the same, just a different repo. and name.
+- SchoolApp repo. privated to protect environment variables when launching app to production.
 
 # Features
 
