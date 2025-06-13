@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1RgHcsb1VSVuOc_kh9X05NzW27gz9LF0J" />
+  <img src="./educonnect.jpg" />
 </p>
 
 # EduConnect (for FBLA Competition)
