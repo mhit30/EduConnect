@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./educonnect.jpg" />
+  <img src="./educonnect.jpg" width="40%"/>
 </p>
 
 # EduConnect (for FBLA Competition)
